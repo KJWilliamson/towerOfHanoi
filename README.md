@@ -1,13 +1,5 @@
-https://kamelaw.gitlab.io/towerofhanoi/
 
-
-Partners:
-
-Acsel Ramirez Chavez and
-
-Andrea Alvear
-
-//Randy provided a good chunk of the code in demo and we've used it here
+Some code provided in demo and used here
 
 1. Provide a way to select a disc from the top of a tower
     1. click handler on each tower
