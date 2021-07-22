@@ -18,7 +18,7 @@ h1 {
 }
 
 .tower {
-  border: 1px dashed black;
+  border: 1px solid darkgray;
   flex-grow: 1;
 
   display: flex;
