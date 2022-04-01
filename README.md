@@ -27,3 +27,5 @@ Some code provided in demo and used here
           
 3. check to see if the game is over--"winning condition"
     1. if all four discs are in the third tower, game over
+
+![tower of hanoi](https://user-images.githubusercontent.com/24884380/161317863-4221c03d-425b-46f9-95dc-5f0160878b6c.jpeg)
