@@ -1,4 +1,6 @@
-GITHUB PAGE FOR TOWER OF HANOI
+# GITHUB PAGE FOR TOWER OF HANOI
+
+https://javascript-tower-of-hanoi.netlify.app/
 
 https://kjwilliamson.github.io/towerOfHanoi/
 
