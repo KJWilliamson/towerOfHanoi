@@ -28,7 +28,7 @@ const towerClick = function(event) {
   } else {
     alert("Sorry! That's an invalid move!")
     } if (tower3.childElementCount === 4) {
-    alert("Congratulations! You've conquered the Tower of Hanoi!")
+    document.querySelector("#here").innerText = "Congratulations! You've conquered the Tower of Hanoi!"
 
     }
   }
