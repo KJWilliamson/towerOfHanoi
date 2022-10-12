@@ -1,13 +1,11 @@
-# GITHUB PAGE FOR TOWER OF HANOI
+## Tower Of Hanoi built with HTML, CSS, and Javascript.
 
-https://js-tower-of-hanoi.netlify.app/
+LINKS:
+ * https://js-tower-of-hanoi.netlify.app/
+ * https://javascript-tower-of-hanoi.netlify.app/
+ * https://kjwilliamson.github.io/towerOfHanoi/
 
-https://javascript-tower-of-hanoi.netlify.app/
 
-https://kjwilliamson.github.io/towerOfHanoi/
-
-***********************************************
-Some code provided in demo and used here
 
 1. Provide a way to select a disc from the top of a tower
     1. click handler on each tower
